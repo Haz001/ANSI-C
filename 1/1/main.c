@@ -1,10 +1,10 @@
-#include <stdio.h>			/* standard input and output library
-					   (where printf is from) */
+/* standard input and output library (where printf is from) */
+#include <stdio.h>			
 
-main()					/* Inital function, execution starts
-					   here */
+/* Inital function, execution starts here */
+main()					
 {
-	printf("Hello World\n");	/* Simple string being printed to the
-					   standard output teletype terminal
-					   (use to be actual paper) */
+	/* Simple string being printed to the standard output teletype
+	 * terminal (use to be actual paper) */
+	printf("Hello World\n");
 }
