@@ -2,7 +2,7 @@
 
 main()
 {
-	int celsius;
+	short celsius;
 	printf("  °C\t    °F\n");
 	for (celsius = -100;celsius <= 100;celsius += 10)
 	{ 

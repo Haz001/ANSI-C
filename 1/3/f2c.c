@@ -2,7 +2,7 @@
 
 main()
 {
-	int farh;
+	short farh;
 	printf("  °F\t    °C\n");
 	for (farh = -100; farh <= 100; farh = farh + 10)
 	{ 
